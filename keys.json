@@ -1,0 +1,10 @@
+{
+	  "address": "mantra1hg9cun8u72nvpwk0kmv6mk63avqzllq4s4x80a",
+	    "name": "wallet",
+	      "pubkey": {
+		          "@type": "/cosmos.crypto.secp256k1.PubKey",
+			      "key": "A+hPZzs0B5FxtrikWScTAkStSk6HCoNyx4L85Gfz8BrC"
+			        },
+				  "type": "local",
+				    "mnemonic": "envelope chimney subway glide since city key dress east original wife bright claim end wise nation tobacco bachelor club lunch wave card athlete amused"
+}
